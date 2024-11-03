@@ -148,7 +148,7 @@ class InteractiveSteganography:
     def print_banner(self):
         banner = """
 ╔═══════════════════════════════════════════════════════════════╗
-║                  Secure Steganography Tool                    ║
+║                      Steganography Tool                       ║
 ║                          by hckpgn                            ║
 ╚═══════════════════════════════════════════════════════════════╝
         """
